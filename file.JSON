@@ -1,0 +1,286 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#education/classes('657f332d-11e3-4f1c-8d2c-29c7ded03240')/assignments",
+    "value": [
+        {
+            "classId": "657f332d-11e3-4f1c-8d2c-29c7ded03240",
+            "displayName": "Paper 2 question 5 oefening",
+            "closeDateTime": null,
+            "dueDateTime": "2022-03-05T21:59:00Z",
+            "assignDateTime": null,
+            "assignedDateTime": "2022-03-02T14:28:42.0112543Z",
+            "allowLateSubmissions": true,
+            "resourcesFolderUrl": "https://graph.microsoft.com/v1.0/drives/b!8s8s115UY0e_Si8_6cr_-vpdwsA3vHtDsNhJqj6jII19UWCnIUGyS6Ze-4RtU8H-/items/01KIVQX2U2MH6SSKB3ZFEYHU3CAJUXDNZN",
+            "createdDateTime": "2022-03-02T14:24:03.9046434Z",
+            "lastModifiedDateTime": "2022-03-02T14:28:47.3853458Z",
+            "allowStudentsToAddResourcesToSubmission": true,
+            "status": "assigned",
+            "notificationChannelUrl": null,
+            "webUrl": "https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22,%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%22657f332d-11e3-4f1c-8d2c-29c7ded03240%5C%22,%5C%22displayName%5C%22%3Anull,%5C%22assignmentIds%5C%22%3A%5B%5C%22d4df1dbd-c90d-4743-b2b6-50ab4a0359b9%5C%22%5D%7D%5D%7D,%5C%22action%5C%22%3A%5C%22navigate%5C%22,%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%7D%22,%22channelId%22%3Anull%7D",
+            "addToCalendarAction": "none",
+            "addedStudentAction": "none",
+            "id": "d4df1dbd-c90d-4743-b2b6-50ab4a0359b9",
+            "instructions": {
+                "content": "<div style=\"font-family: inherit; font-size: inherit; color: inherit;\">Lees die aangehegde tekse, en identifiseer en bespreek dan 5 ooreenkomste tussen hierdie tekse. Skryf ongeveer 100 woorde.</div>",
+                "contentType": "html"
+            },
+            "grading": {
+                "@odata.type": "#microsoft.graph.educationAssignmentPointsGradeType",
+                "maxPoints": 10
+            },
+            "assignTo": {
+                "@odata.type": "#microsoft.graph.educationAssignmentClassRecipient"
+            },
+            "createdBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "87a41623-b6c8-4eeb-826d-f077a255d13c",
+                    "displayName": null
+                }
+            },
+            "lastModifiedBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "AAAAAAAA-0123-4567-89AB-1B4BB48C3119",
+                    "displayName": null
+                }
+            }
+        },
+        {
+            "classId": "657f332d-11e3-4f1c-8d2c-29c7ded03240",
+            "displayName": "Sinne oorskryf oefening 1",
+            "closeDateTime": null,
+            "dueDateTime": "2022-02-25T21:59:00Z",
+            "assignDateTime": null,
+            "assignedDateTime": "2022-02-21T19:23:25.2412116Z",
+            "allowLateSubmissions": true,
+            "resourcesFolderUrl": "https://graph.microsoft.com/v1.0/drives/b!8s8s115UY0e_Si8_6cr_-vpdwsA3vHtDsNhJqj6jII19UWCnIUGyS6Ze-4RtU8H-/items/01KIVQX2WMS6XJY35XXNC2V5SUXQS6EHEY",
+            "createdDateTime": "2022-02-21T19:05:36.616425Z",
+            "lastModifiedDateTime": "2022-02-21T19:23:31.0278378Z",
+            "allowStudentsToAddResourcesToSubmission": true,
+            "status": "assigned",
+            "notificationChannelUrl": null,
+            "webUrl": "https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22,%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%22657f332d-11e3-4f1c-8d2c-29c7ded03240%5C%22,%5C%22displayName%5C%22%3Anull,%5C%22assignmentIds%5C%22%3A%5B%5C%2221aebba9-17a7-42a5-b010-735ecfbcdddd%5C%22%5D%7D%5D%7D,%5C%22action%5C%22%3A%5C%22navigate%5C%22,%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%7D%22,%22channelId%22%3Anull%7D",
+            "addToCalendarAction": "none",
+            "addedStudentAction": "none",
+            "id": "21aebba9-17a7-42a5-b010-735ecfbcdddd",
+            "instructions": {
+                "content": "<div style=\"font-family: inherit; font-size: inherit; color: inherit;\">Volg instruksies op die word doc.</div>",
+                "contentType": "html"
+            },
+            "grading": {
+                "@odata.type": "#microsoft.graph.educationAssignmentPointsGradeType",
+                "maxPoints": 10
+            },
+            "assignTo": {
+                "@odata.type": "#microsoft.graph.educationAssignmentClassRecipient"
+            },
+            "createdBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "87a41623-b6c8-4eeb-826d-f077a255d13c",
+                    "displayName": null
+                }
+            },
+            "lastModifiedBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "AAAAAAAA-0123-4567-89AB-1B4BB48C3119",
+                    "displayName": null
+                }
+            }
+        },
+        {
+            "classId": "657f332d-11e3-4f1c-8d2c-29c7ded03240",
+            "displayName": "Woeker met Woorde storie 2",
+            "closeDateTime": null,
+            "dueDateTime": "2022-02-19T21:59:00Z",
+            "assignDateTime": null,
+            "assignedDateTime": "2022-02-16T11:30:56.6497053Z",
+            "allowLateSubmissions": true,
+            "resourcesFolderUrl": null,
+            "createdDateTime": "2022-02-16T10:58:48.3581244Z",
+            "lastModifiedDateTime": "2022-02-16T12:25:03.7612769Z",
+            "allowStudentsToAddResourcesToSubmission": true,
+            "status": "assigned",
+            "notificationChannelUrl": null,
+            "webUrl": "https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22,%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%22657f332d-11e3-4f1c-8d2c-29c7ded03240%5C%22,%5C%22displayName%5C%22%3Anull,%5C%22assignmentIds%5C%22%3A%5B%5C%2278afe44f-dc58-496c-b10b-f24bbd11c3d6%5C%22%5D%7D%5D%7D,%5C%22action%5C%22%3A%5C%22navigate%5C%22,%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%7D%22,%22channelId%22%3Anull%7D",
+            "addToCalendarAction": "none",
+            "addedStudentAction": "none",
+            "id": "78afe44f-dc58-496c-b10b-f24bbd11c3d6",
+            "instructions": {
+                "content": "<div style=\"font-family: inherit; font-size: inherit; color: inherit;\">Daar was 'n inbraak gewees by een van Impali Eiland se rykste inwoners, Mnr. en Mev. Swartzits. Net hulle hondjie, Madame Luluzaan Floofzillian Swartzits die tweede, was tuis. Sy is 'n wêreldberoemde aktriese en hondemodel. Sy vertel vir haar beste vriendin, Trixie Gloria Radbury, haar weergawe van die gebeure.&nbsp;</div><div style=\"font-family: inherit; font-size: inherit; color: inherit;\"><br></div><div style=\"font-family: inherit; font-size: inherit; color: inherit;\">Skryf die storie soos wat Madame Luluzaan dit sou vertel, en kleur jou storie in met Intensiewe Vorme.&nbsp;</div><div style=\"font-family: inherit; font-size: inherit; color: inherit;\">Skryf ongeveer 200 woorde.&nbsp;</div><div style=\"font-family: inherit; font-size: inherit; color: inherit;\">Gaan loer na die lysie wat in die klas se notebook geplaas is as jy Intensiewe Vorm inspirasie nodig het.&nbsp;</div><div style=\"font-family: inherit; font-size: inherit; color: inherit;\"><br></div><div style=\"font-family: inherit; font-size: inherit; color: inherit;\">Scan asb jou werk in en handing dit in as 'n pdf</div><div style=\"font-family: inherit; font-size: inherit; color: inherit;\">Camscanner is 'n handige telefoon-toep (app) wat dit maklik maak on met jou foon te scan en as 'n pdf te save.&nbsp;</div><div style=\"font-family: inherit; font-size: inherit; color: inherit;\">&nbsp;</div>",
+                "contentType": "text"
+            },
+            "grading": {
+                "@odata.type": "#microsoft.graph.educationAssignmentPointsGradeType",
+                "maxPoints": 100
+            },
+            "assignTo": {
+                "@odata.type": "#microsoft.graph.educationAssignmentClassRecipient"
+            },
+            "createdBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "87a41623-b6c8-4eeb-826d-f077a255d13c",
+                    "displayName": null
+                }
+            },
+            "lastModifiedBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "87a41623-b6c8-4eeb-826d-f077a255d13c",
+                    "displayName": null
+                }
+            }
+        },
+        {
+            "classId": "657f332d-11e3-4f1c-8d2c-29c7ded03240",
+            "displayName": "Woeker met Woorde Storie 1",
+            "closeDateTime": null,
+            "dueDateTime": "2022-02-11T21:59:00Z",
+            "assignDateTime": null,
+            "assignedDateTime": "2022-02-07T18:00:57.6571456Z",
+            "allowLateSubmissions": true,
+            "resourcesFolderUrl": "https://graph.microsoft.com/v1.0/drives/b!8s8s115UY0e_Si8_6cr_-vpdwsA3vHtDsNhJqj6jII19UWCnIUGyS6Ze-4RtU8H-/items/01KIVQX2USQ4FXPINW3NFLJLP2WTWJQSSS",
+            "createdDateTime": "2022-02-07T18:00:12.4861042Z",
+            "lastModifiedDateTime": "2022-02-07T18:01:21.6843899Z",
+            "allowStudentsToAddResourcesToSubmission": true,
+            "status": "assigned",
+            "notificationChannelUrl": null,
+            "webUrl": "https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22,%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%22657f332d-11e3-4f1c-8d2c-29c7ded03240%5C%22,%5C%22displayName%5C%22%3Anull,%5C%22assignmentIds%5C%22%3A%5B%5C%220765ac0b-9e51-4932-8040-a2c990f11e42%5C%22%5D%7D%5D%7D,%5C%22action%5C%22%3A%5C%22navigate%5C%22,%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%7D%22,%22channelId%22%3Anull%7D",
+            "addToCalendarAction": "studentsAndPublisher",
+            "addedStudentAction": "none",
+            "id": "0765ac0b-9e51-4932-8040-a2c990f11e42",
+            "grading": null,
+            "instructions": {
+                "content": "<b><i>In hierdie oefening gaan jy ‘n kort, lawwe storie skryf. Gebruik die storielyn hieronder as die inspirasie vir jou storie, en gebruik die Woeker-woorde in die blokkie om jou storie kleur te gee. Jou storie moet minstens 200 woorde wees</i></b>.<br><div><br></div><div><b>Woeker woorde:</b></div><div>manewales</div><div>witolifant-tafel</div><div>kompetisie</div><div>jol</div><div>byna</div><div>stalletjie</div><div>hoogtevrees</div><div>pers</div><div>luidrugtig</div><div>uitstekend</div><div><br></div><div><b>Storielyn:</b><br></div><div>&nbsp;<br></div><div>‘n Skoenlapper en ‘n stokinsek is beste vriende, en gaan na die goggabasaar vir ‘n dag vol pret en avontuur. Hulle ry slakke, spring op ‘n jelly kasteel, wen pryse met allerhande basaar speletjies, en eet heerlike basaar kosse. In die grootste kompetisie moes elke deelnemer ____________, en stokinsek was die wenner, al het hy aanvanklik nie gedink hy kon dit doen nie. <br></div>",
+                "contentType": "html"
+            },
+            "assignTo": {
+                "@odata.type": "#microsoft.graph.educationAssignmentIndividualRecipient",
+                "recipients": [
+                    "6ca95c63-5e1f-49ce-8002-d1adbda53236",
+                    "fa1bc1bb-d6e6-4438-a5f0-0229d56144aa",
+                    "93a221e7-da78-45d2-adbc-1d119fb0894f",
+                    "b6990666-bc89-4017-b3a3-1f0bcd4bb4a0",
+                    "332591dd-f212-4e82-a74a-976f2933ed39",
+                    "f35c677c-90b0-4725-bf52-5a02f5b48502"
+                ]
+            },
+            "createdBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "87a41623-b6c8-4eeb-826d-f077a255d13c",
+                    "displayName": null
+                }
+            },
+            "lastModifiedBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "87a41623-b6c8-4eeb-826d-f077a255d13c",
+                    "displayName": null
+                }
+            }
+        },
+        {
+            "classId": "657f332d-11e3-4f1c-8d2c-29c7ded03240",
+            "displayName": "Meervoude en Verkleinings Aktiwiteit",
+            "closeDateTime": null,
+            "dueDateTime": "2022-02-11T21:59:00Z",
+            "assignDateTime": null,
+            "assignedDateTime": "2022-02-07T17:59:37.1836225Z",
+            "allowLateSubmissions": true,
+            "resourcesFolderUrl": "https://graph.microsoft.com/v1.0/drives/b!8s8s115UY0e_Si8_6cr_-vpdwsA3vHtDsNhJqj6jII19UWCnIUGyS6Ze-4RtU8H-/items/01KIVQX2XN5R6RTOUXBFDIVPIMAK5E222U",
+            "createdDateTime": "2022-02-07T17:54:25.5415313Z",
+            "lastModifiedDateTime": "2022-02-07T18:01:38.1676183Z",
+            "allowStudentsToAddResourcesToSubmission": true,
+            "status": "assigned",
+            "notificationChannelUrl": null,
+            "webUrl": "https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22,%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%22657f332d-11e3-4f1c-8d2c-29c7ded03240%5C%22,%5C%22displayName%5C%22%3Anull,%5C%22assignmentIds%5C%22%3A%5B%5C%2211e6a405-95d2-4f97-8eb1-6159959bb134%5C%22%5D%7D%5D%7D,%5C%22action%5C%22%3A%5C%22navigate%5C%22,%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%7D%22,%22channelId%22%3Anull%7D",
+            "addToCalendarAction": "none",
+            "addedStudentAction": "none",
+            "id": "11e6a405-95d2-4f97-8eb1-6159959bb134",
+            "instructions": {
+                "content": "<div style=\"font-family: inherit; font-size: inherit; color: inherit;\">Volg die instruksies op die pdf&nbsp;</div>",
+                "contentType": "html"
+            },
+            "grading": {
+                "@odata.type": "#microsoft.graph.educationAssignmentPointsGradeType",
+                "maxPoints": 50
+            },
+            "assignTo": {
+                "@odata.type": "#microsoft.graph.educationAssignmentClassRecipient"
+            },
+            "createdBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "87a41623-b6c8-4eeb-826d-f077a255d13c",
+                    "displayName": null
+                }
+            },
+            "lastModifiedBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "87a41623-b6c8-4eeb-826d-f077a255d13c",
+                    "displayName": null
+                }
+            }
+        },
+        {
+            "classId": "657f332d-11e3-4f1c-8d2c-29c7ded03240",
+            "displayName": "Sinonieme Oefening",
+            "closeDateTime": null,
+            "dueDateTime": "2022-02-11T21:59:00Z",
+            "assignDateTime": null,
+            "assignedDateTime": "2022-02-07T17:54:32.2873527Z",
+            "allowLateSubmissions": true,
+            "resourcesFolderUrl": "https://graph.microsoft.com/v1.0/drives/b!8s8s115UY0e_Si8_6cr_-vpdwsA3vHtDsNhJqj6jII19UWCnIUGyS6Ze-4RtU8H-/items/01KIVQX2REIZZQ7AJZRFAYJSHUJ2KJX7JQ",
+            "createdDateTime": "2022-02-07T17:51:50.1459487Z",
+            "lastModifiedDateTime": "2022-02-07T17:54:38.18129Z",
+            "allowStudentsToAddResourcesToSubmission": true,
+            "status": "assigned",
+            "notificationChannelUrl": "https://graph.microsoft.com/v1.0/teams/657f332d-11e3-4f1c-8d2c-29c7ded03240/channels/19:lO55ZKgMQZVxa31FFJ8EDs-miMqqCE_bSjnncChcL-M1@thread.tacv2",
+            "webUrl": "https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22,%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%22657f332d-11e3-4f1c-8d2c-29c7ded03240%5C%22,%5C%22displayName%5C%22%3Anull,%5C%22assignmentIds%5C%22%3A%5B%5C%22b484a1aa-e921-48c5-b70d-fc0e9d89e206%5C%22%5D%7D%5D%7D,%5C%22action%5C%22%3A%5C%22navigate%5C%22,%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%7D%22,%22channelId%22%3A%2219%3AlO55ZKgMQZVxa31FFJ8EDs-miMqqCE_bSjnncChcL-M1@thread.tacv2%22%7D",
+            "addToCalendarAction": "none",
+            "addedStudentAction": "none",
+            "id": "b484a1aa-e921-48c5-b70d-fc0e9d89e206",
+            "instructions": {
+                "content": "<div style=\"font-family: inherit; font-size: inherit; color: inherit;\">Lees die teks in die pdf en beantwoord dan die vragies.</div>",
+                "contentType": "html"
+            },
+            "grading": {
+                "@odata.type": "#microsoft.graph.educationAssignmentPointsGradeType",
+                "maxPoints": 5
+            },
+            "assignTo": {
+                "@odata.type": "#microsoft.graph.educationAssignmentClassRecipient"
+            },
+            "createdBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "87a41623-b6c8-4eeb-826d-f077a255d13c",
+                    "displayName": null
+                }
+            },
+            "lastModifiedBy": {
+                "application": null,
+                "device": null,
+                "user": {
+                    "id": "AAAAAAAA-0123-4567-89AB-1B4BB48C3119",
+                    "displayName": null
+                }
+            }
+        }
+    ]
+}
